@@ -1,8 +1,8 @@
 import svgPaths from "./svg-r0hbhc02i8";
-import imgBackground from "./1e9433d9b9ee820bcc0e0c57dd4bb9ccf4086fdd.png";
-import imgContacts1Jpg from "./82670c95e42ca7643fcd099f03a03ee92bec7263.png";
-import imgAgadirBayDentalClinicLogo1 from "./049e18c660c202068054f76dac750df540371106.png";
-import imgGoogleMapPlaceholder1024X608Webp from "./c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
+import imgBackground from "../../assets/1e9433d9b9ee820bcc0e0c57dd4bb9ccf4086fdd.png";
+import imgContacts1Jpg from "../../assets/82670c95e42ca7643fcd099f03a03ee92bec7263.png";
+import imgAgadirBayDentalClinicLogo1 from "../../assets/049e18c660c202068054f76dac750df540371106.png";
+import imgGoogleMapPlaceholder1024X608Webp from "../../assets/c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
 import { imgGroup } from "./svg-hx5y0";
 
 function Group() {

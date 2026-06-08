@@ -1,7 +1,7 @@
 import { Link } from "react-router";
 import { Footer } from "./Footer";
-import heroBg from "figma:asset/51e6edc7a217cbef1a57061dabbbcf76f6452a75.png";
-import deptImg from "figma:asset/13fcd1d366638a51e5541c23296811fa1f20d0c9.png";
+import heroBg from "../../../assets/51e6edc7a217cbef1a57061dabbbcf76f6452a75.png";
+import deptImg from "../../../assets/13fcd1d366638a51e5541c23296811fa1f20d0c9.png";
 
 const specialties = [
   {

@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { Link } from "react-router";
 import { Footer } from "./Footer";
-import heroBg from "figma:asset/51e6edc7a217cbef1a57061dabbbcf76f6452a75.png";
-import galleryImg from "figma:asset/79e10df032f05c8aab740313b3228d891dfbef20.png";
+import heroBg from "../../../assets/51e6edc7a217cbef1a57061dabbbcf76f6452a75.png";
+import galleryImg from "../../../assets/79e10df032f05c8aab740313b3228d891dfbef20.png";
 
 const images = Array.from({ length: 9 }, (_, i) => ({
   id: i,

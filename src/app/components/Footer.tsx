@@ -1,6 +1,6 @@
 import { Link } from "react-router";
-import logoImg from "figma:asset/049e18c660c202068054f76dac750df540371106.png";
-import mapImg from "figma:asset/c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
+import logoImg from "../../assets/049e18c660c202068054f76dac750df540371106.png";
+import mapImg from "../../assets/c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
 
 export function Footer() {
   return (

@@ -1,14 +1,14 @@
 import svgPaths from "./svg-qrqy1mp58g";
-import imgSection from "./fbc164cbff245adea9f7894ff0846d77b5947573.png";
-import imgHome2Jpg from "./848d405cde2d06792f037092eeff68b483725aa6.png";
-import imgHome3Jpg from "./05dfdc575c62dc3444993e9c9455e33389952497.png";
-import imgHome4Jpg from "./837cdc35d1d09eec70b3cd0f1843844f2fc723a8.png";
-import imgDepartment1768X509Jpg from "./78b7d448e9eaffdd475d39d9f37cadcf9f3d9025.png";
-import imgDepartment3768X509Jpg from "./100c7ab5430f1d9a76a16421f28efd5579575051.png";
-import imgDepartment4768X509Jpg from "./af48ef06dd80f082d3eda068fe3f0fb4a99c0023.png";
-import imgDepartment6768X509Jpg from "./a03e0ec93a6470b1259ab4ce6cb900715a3adbab.png";
-import imgAgadirBayDentalClinicLogo1 from "./049e18c660c202068054f76dac750df540371106.png";
-import imgGoogleMapPlaceholder1024X608Webp from "./c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
+import imgSection from "../../assets/fbc164cbff245adea9f7894ff0846d77b5947573.png";
+import imgHome2Jpg from "../../assets/848d405cde2d06792f037092eeff68b483725aa6.png";
+import imgHome3Jpg from "../../assets/05dfdc575c62dc3444993e9c9455e33389952497.png";
+import imgHome4Jpg from "../../assets/837cdc35d1d09eec70b3cd0f1843844f2fc723a8.png";
+import imgDepartment1768X509Jpg from "../../assets/78b7d448e9eaffdd475d39d9f37cadcf9f3d9025.png";
+import imgDepartment3768X509Jpg from "../../assets/100c7ab5430f1d9a76a16421f28efd5579575051.png";
+import imgDepartment4768X509Jpg from "../../assets/af48ef06dd80f082d3eda068fe3f0fb4a99c0023.png";
+import imgDepartment6768X509Jpg from "../../assets/a03e0ec93a6470b1259ab4ce6cb900715a3adbab.png";
+import imgAgadirBayDentalClinicLogo1 from "../../assets/049e18c660c202068054f76dac750df540371106.png";
+import imgGoogleMapPlaceholder1024X608Webp from "../../assets/c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
 import { imgGroup, imgGroup1 } from "./svg-ef57y";
 
 function Container2() {

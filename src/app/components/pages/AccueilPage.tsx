@@ -1,14 +1,14 @@
 import { Link } from "react-router";
 import { FAQ } from "./FAQ";
 import { Footer } from "./Footer";
-import heroBg from "figma:asset/fbc164cbff245adea9f7894ff0846d77b5947573.png";
-import smile1 from "figma:asset/848d405cde2d06792f037092eeff68b483725aa6.png";
-import smile2 from "figma:asset/05dfdc575c62dc3444993e9c9455e33389952497.png";
-import smile3 from "figma:asset/837cdc35d1d09eec70b3cd0f1843844f2fc723a8.png";
-import dept1 from "figma:asset/78b7d448e9eaffdd475d39d9f37cadcf9f3d9025.png";
-import dept3 from "figma:asset/100c7ab5430f1d9a76a16421f28efd5579575051.png";
-import dept4 from "figma:asset/af48ef06dd80f082d3eda068fe3f0fb4a99c0023.png";
-import dept6 from "figma:asset/a03e0ec93a6470b1259ab4ce6cb900715a3adbab.png";
+import heroBg from "../../../assets/fbc164cbff245adea9f7894ff0846d77b5947573.png";
+import smile1 from "../../../assets/848d405cde2d06792f037092eeff68b483725aa6.png";
+import smile2 from "../../../assets/05dfdc575c62dc3444993e9c9455e33389952497.png";
+import smile3 from "../../../assets/837cdc35d1d09eec70b3cd0f1843844f2fc723a8.png";
+import dept1 from "../../../assets/78b7d448e9eaffdd475d39d9f37cadcf9f3d9025.png";
+import dept3 from "../../../assets/100c7ab5430f1d9a76a16421f28efd5579575051.png";
+import dept4 from "../../../assets/af48ef06dd80f082d3eda068fe3f0fb4a99c0023.png";
+import dept6 from "../../../assets/a03e0ec93a6470b1259ab4ce6cb900715a3adbab.png";
 
 const specialties = [
   { img: dept1, label: "Chirurgie implantaire guidée", to: "/specialites/implantologie" },

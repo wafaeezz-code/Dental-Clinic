@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { Link } from "react-router";
 import { Footer } from "./Footer";
-import heroBg from "figma:asset/1e9433d9b9ee820bcc0e0c57dd4bb9ccf4086fdd.png";
-import womanImg from "figma:asset/82670c95e42ca7643fcd099f03a03ee92bec7263.png";
-import mapImg from "figma:asset/c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
+import heroBg from "../../../assets/1e9433d9b9ee820bcc0e0c57dd4bb9ccf4086fdd.png";
+import womanImg from "../../../assets/82670c95e42ca7643fcd099f03a03ee92bec7263.png";
+import mapImg from "../../../assets/c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
 
 export function ContactPage() {
   const [form, setForm] = useState({ nom: "", email: "", telephone: "", message: "" });

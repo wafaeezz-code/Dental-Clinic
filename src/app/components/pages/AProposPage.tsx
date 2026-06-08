@@ -1,9 +1,9 @@
 import { Link } from "react-router";
 import { Footer } from "./Footer";
-import heroBg from "figma:asset/51e6edc7a217cbef1a57061dabbbcf76f6452a75.png";
-import smile1 from "figma:asset/848d405cde2d06792f037092eeff68b483725aa6.png";
-import smile2 from "figma:asset/05dfdc575c62dc3444993e9c9455e33389952497.png";
-import smile3 from "figma:asset/837cdc35d1d09eec70b3cd0f1843844f2fc723a8.png";
+import heroBg from "../../../assets/51e6edc7a217cbef1a57061dabbbcf76f6452a75.png";
+import smile1 from "../../../assets/848d405cde2d06792f037092eeff68b483725aa6.png";
+import smile2 from "../../../assets/05dfdc575c62dc3444993e9c9455e33389952497.png";
+import smile3 from "../../../assets/837cdc35d1d09eec70b3cd0f1843844f2fc723a8.png";
 
 const technologies = [
   {

@@ -1,8 +1,8 @@
 import svgPaths from "./svg-gxocv7t03z";
-import imgAgadirBayDentalClinicLogo1 from "./049e18c660c202068054f76dac750df540371106.png";
-import imgChatGptImageJul252025043544Pm1 from "./805dda9a1cbaff46fda2672dd448fa61912ff236.png";
-import imgHome2Jpg from "./848d405cde2d06792f037092eeff68b483725aa6.png";
-import imgChatGptImageJul252025043652Pm1 from "./bd1b2d1685caed1f47e77d488f6e2861b6f5748e.png";
+import imgAgadirBayDentalClinicLogo1 from "../../assets/049e18c660c202068054f76dac750df540371106.png";
+import imgChatGptImageJul252025043544Pm1 from "../../assets/805dda9a1cbaff46fda2672dd448fa61912ff236.png";
+import imgHome2Jpg from "../../assets/848d405cde2d06792f037092eeff68b483725aa6.png";
+import imgChatGptImageJul252025043652Pm1 from "../../assets/bd1b2d1685caed1f47e77d488f6e2861b6f5748e.png";
 import imgGoogleMapPlaceholder1024X608Webp from "./c807e8c72fb2e3e8c342be0700b1ff3428049648.png";
 import { imgGroup } from "./svg-29798";
 

@@ -1,8 +1,8 @@
 import { Link } from "react-router";
 import { Footer } from "./Footer";
 import { SpecialtySidebar } from "../SpecialtySidebar";
-import doctorImg from "figma:asset/aafc456a914736160f11227a96d5149ca641e552.png";
-import beforeAfterImg from "figma:asset/bd1b2d1685caed1f47e77d488f6e2861b6f5748e.png";
+import doctorImg from "../../../assets/aafc456a914736160f11227a96d5149ca641e552.png";
+import beforeAfterImg from "../../../assets/bd1b2d1685caed1f47e77d488f6e2861b6f5748e.png";
 
 const advantages = [
   "Imagerie haute résolution",

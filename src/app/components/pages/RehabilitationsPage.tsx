@@ -1,8 +1,8 @@
 import { Link } from "react-router";
 import { Footer } from "./Footer";
 import { SpecialtySidebar } from "../SpecialtySidebar";
-import doctorImg from "figma:asset/7b5a40cc1990e5f324ec8a90ed11cd6a77ebffd2.png";
-import beforeAfterImg from "figma:asset/bd1b2d1685caed1f47e77d488f6e2861b6f5748e.png";
+import doctorImg from "../../../assets/7b5a40cc1990e5f324ec8a90ed11cd6a77ebffd2.png";
+import beforeAfterImg from "../../../assets/bd1b2d1685caed1f47e77d488f6e2861b6f5748e.png";
 
 const advantages = [
   "Sourire naturel harmonieux",

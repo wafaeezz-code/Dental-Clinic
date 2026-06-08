@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router";
-import logoImg from "figma:asset/049e18c660c202068054f76dac750df540371106.png";
+import logoImg from "../../assets/049e18c660c202068054f76dac750df540371106.png";
 
 const specialites = [
   { label: "Implantologie & Parodontologie", path: "/specialites/implantologie" },

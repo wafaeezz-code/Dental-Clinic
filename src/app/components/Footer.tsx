@@ -59,7 +59,7 @@ export function Footer() {
           <div className="flex flex-col gap-3 md:gap-4 lg:gap-[16px]">
             <h4 className="text-[#173435] text-sm md:text-base lg:text-[16px]" style={{ fontWeight: 600 }}>Localisation</h4>
             <div className="rounded-[10px] overflow-hidden h-24 md:h-28 lg:h-[150px]">
-              <img src={mapImg} alt="Localisation" className="w-full h-full object-cover" />
+              <a href="https://www.google.com/maps/place/Agadir+Bay+Dental+Clinic/@30.4029852,-9.5882927,17z/data=!3m1!4b1!4m6!3m5!1s0xdb3b74f8bb7a535:0x1f40588b8e42ba61!8m2!3d30.4029852!4d-9.5857178!16s%2Fg%2F11z425crqj?entry=tts&g_ep=EgoyMDI2MDYwMS4wIPu8ASoASAFQAw%3D%3D&skid=84fb967b-2ac1-48ed-9747-6f4cf779d145" target="_blank" rel="noreferrer"><img src={mapImg} alt="Localisation" className="w-full h-full object-cover" /></a>
             </div>
           </div>
         </div>
